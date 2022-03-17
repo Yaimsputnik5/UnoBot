@@ -1,3 +1,10 @@
+# This Fork Is Maintained By Yaimsputnik5 & Signam Kid [![](https://img.shields.io/github/license/Yaimsputnik5/UnoBot) [![](https://img.shields.io/github/v/release/Yaimsputnik5/UnoBot)](https://github.com/Yaimsputnik5/UnoBot/releases/latest) ![](https://img.shields.io/github/downloads/Yaimsputnik5/UnoBot/total)
+
+[Join Our Community Server!](https://discord.gg/Uwky7sNzGZ)
+Have any questions? [Create A Question Issue](https://github.com/Yaimsputnik5/UnoBot/issues/new?assignees=&labels=question&template=question.md&title=). Want Want to suggest a feature? [Create a suggestion issue](https://github.com/Yaimsputnik5/UnoBot/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
+Encountering a bug? [Report A Bug](https://github.com/Yaimsputnik5/UnoBot/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
+Wish to contribute? [Please Read Our Contribution Guidelines](https://github.com/Yaimsputnik5/UnoBot/blob/master/CONTRIBUTING.md).
+
 <img src="https://cdn.discordapp.com/avatars/565305035592957954/5c252fbb1bfa80e04c811f83e5243e51.png" alt="UnoBot Logo" align="left" style="width:150px; height:150px; display:block; float:right;"/>
 
 # UnoBot
@@ -313,4 +320,3 @@ And use the id (the first number) in the following command:
 ```bash
 sudo kill <id>
 ```
-
