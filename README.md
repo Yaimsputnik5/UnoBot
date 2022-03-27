@@ -1,4 +1,4 @@
-# This Fork Is Maintained By [YaimSputnik5][yaimsputnik5github] & [Signam Kid][signamgithub]
+# This Fork Is Maintained By [YaimSputnik5][yaimsputnik5github]
 ![](https://img.shields.io/github/license/Yaimsputnik5/UnoBot) [![](https://img.shields.io/github/v/release/Yaimsputnik5/UnoBot)](https://github.com/Yaimsputnik5/UnoBot/releases/latest) ![](https://img.shields.io/github/downloads/Yaimsputnik5/UnoBot/total) [![ViewCount](https://views.whatilearened.today/views/github/Yaimsputnik5/UnoBot.svg)](https://github.com/Yaimsputnik5/UnoBot)
 
 [Join Our Community Server!](https://discord.gg/Uwky7sNzGZ)
@@ -322,4 +322,3 @@ And use the id (the first number) in the following command:
 sudo kill <id>
 ```
 [yaimsputnik5github]: https://github.com/Yaimsputnik5
-[signamgithub]: https://github.com/Signam
